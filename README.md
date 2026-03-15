@@ -1,6 +1,6 @@
 ![logo](https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg.png)
 <h1 align="center">Hi 👋, I'm Tushar Kumar Tiwari</h1>
-<h3 align="center">Camera Development Engineer @ A1QA,Ex - Software Testing Intern @Nothing Tech & CSE Under Grad @Galgotias University(2025)</h3>
+<h3 align="center">Camera Development Engineer @Nothing(R),Ex - Software Testing Intern @Nothing Tech & CSE Under Grad @Galgotias University(2025)</h3>
 
 <img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
